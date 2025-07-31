@@ -1,6 +1,10 @@
 ## Hola, soy Carlos Ibarra.👋
 Aquí se alojan algunos de mis proyectos donde ejercito mis habilidades y donde también pongo en práctica nuevos conocimientos adquiridos.
 
+
+### HABILIDADES
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=Python&logoColor=blue&label=Python)
+
 <!--
 **ibarra-ca/ibarra-ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
