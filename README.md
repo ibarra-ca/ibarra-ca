@@ -1,4 +1,4 @@
-## Hola, soy Carlos Ibarra.👋
+# Hola, soy Carlos Ibarra.👋
 Aquí se alojan algunos de mis proyectos donde ejercito mis habilidades y donde también pongo en práctica nuevos conocimientos adquiridos.
 
 ## Habilidades
