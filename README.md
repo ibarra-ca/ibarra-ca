@@ -96,7 +96,7 @@ Proyecto completo: análisis, modelado y visualización interactiva.
 
 ---
 
-<p align="center">⭐ *“Los datos cuentan historias; mi trabajo es escucharlas y transformarlas en decisiones inteligentes.”* ⭐</p>
+<p align="center">⭐ “Los datos cuentan historias; mi trabajo es escucharlas y transformarlas en decisiones inteligentes.” ⭐</p>
 
 
 <!--
