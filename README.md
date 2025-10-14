@@ -92,7 +92,7 @@ Proyecto completo: análisis, modelado y visualización interactiva.
 ### 📫 Contacto
 📍 **Tamaulipas, México**  
 💼 [LinkedIn](https://www.linkedin.com/in/carlos-armado-ibarra-del-ángel)  
-📧 **ibarra.ca@example.com** *(actualiza con tu correo real)*  
+📧 **carlosibarra.1203@gmail.com**
 
 ---
 
