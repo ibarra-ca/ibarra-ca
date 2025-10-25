@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/carlos-armado-ibarra-del-ángel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ibarra.ca@example.com">
+  <a href="mailto:carlosibarra.1203@gmail.com">
     <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Tamaulipas%2C%20México-0078D4?style=for-the-badge&logo=google-maps&logoColor=white"/>
